@@ -2,6 +2,12 @@
 
 Simple project made in React Native with JavaScript to create a to-do list, I hope you like it :)
 
+<!-- Imagem 1 -->
+<img src="imagen2.jpg" width="200" style="float: left; margin-right: 10px;" />
+
+<!-- Imagem 2 -->
+<img src="imagen1.jpg" width="200" style="float: left;" />
+
 ## Get started
 
 > **Warning:** You need to install expo go on your mobile device, or use android studio.
